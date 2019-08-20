@@ -1,2 +1,2 @@
 # Calendar
-* A Calendar written in Java using Java Swing for the UI.
+* A Calendar written in Java using Swing for the UI.
